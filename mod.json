@@ -1,0 +1,23 @@
+{
+  "Name": "EF Tornado Mod",
+  "Author": "144^2",
+  "Description": "Adds a tornado to the game with a choice of power on the EF scale!",
+  "ModVersion": "7.1",
+  "GameVersion": "1.27.12",
+  "ThumbnailPath": "01.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun",
+    "Mods",
+    "Tornado"
+  ],
+  "Scripts": [
+    "script.cs",
+    "Tornado.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3706924018",
+  "AssemblyName": null
+}
